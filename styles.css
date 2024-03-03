@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+.registerBtn:hover{
+    color: white;
+}
+
+.titleJBT{
+    background-color: rgba(6, 122, 131, 0.295);
+    border-radius: 5px;
+}
+
+.jumbotron{
+    background-image: url("img/NYC_pic.jpg");
+    background-size: cover;
+}
